@@ -1,0 +1,101 @@
+abv,ibu,id,name,style,brewery_id,ounces
+4.6,30,573,Long Trail Ale (1),Altbier,268,12
+5.6,NA,56,Whale's Tale Pale Ale,English Pale Ale,145,12
+9.2,75,1459,Shipwrecked Double IPA,American Double / Imperial IPA,98,32
+5,15,921,Northern Lights Amber Ale,American Amber / Red Ale,493,12
+4.2,25,1835,Provision,Saison / Farmhouse Ale,297,12
+5,NA,2282,Huber,American Pale Lager,134,12
+7.5,60,2585,Galaxy IPA,American IPA,40,16
+6,54,693,Flying Jenny Extra Pale Ale (2012),American Pale Ale (APA),379,12
+4.5,NA,2260,Lake Street Express,American Pale Ale (APA),177,12
+4.7,NA,1843,Strawberry White,Witbier,295,12
+4.7,NA,1721,Heliocentric Hefeweizen,Hefeweizen,148,12
+6.3,NA,2023,Pepper in the Rye,Rye Beer,10,16
+9.9,85,1861,BLAKKR,American Black Ale,128,12
+8,68,2686,Citra Ass Down,American Double / Imperial IPA,1,16
+7.2,60,1801,Last Stop IPA,American IPA,308,12
+7,70,479,Missouri Mule India Pale Ale,American IPA,314,16
+5.7,40,1873,Block Party Robust Porter,American Porter,287,12
+5,NA,114,Triangle White Ale,Witbier,524,12
+6.5,11,85,Cold Smoke Scotch Ale,Scotch Ale / Wee Heavy,510,16
+4.1,8,2232,American Amber,American Amber / Red Lager,129,12
+6.5,NA,75,Epic IPA,American IPA,534,12
+6.7,75,2154,Aurora,American Amber / Red Ale,209,16
+3.8,NA,359,Sankaty Light Lager,Light Lager,145,12
+4.8,18,172,Flaming Damsel Lager (2010),Vienna Lager,284,16
+5,NA,1039,Underachiever,American Adjunct Lager,473,16
+6.8,NA,1133,A Little Crazy,Belgian Pale Ale,44,12
+4.9,20,498,Double D Blonde (2011),American Blonde Ale,198,12
+7.2,65,2239,Torpedo,American IPA,83,12
+4.9,23,2604,Blonde Czich,American Blonde Ale,26,16
+5.2,20,1872,Local Buzz,American Blonde Ale,287,12
+5.6,NA,1744,Farmer Ted's Cream Ale,Cream Ale,331,12
+4.6,27,1115,Shenanigans Summer Ale,American Pale Wheat Ale,277,12
+5.5,20,991,Get Up Offa That Brown,American Brown Ale,240,16
+8,NA,1575,Polar Night Stout,American Stout,376,16
+4.5,NA,1776,All Nighter Ale,Extra Special / Strong Bitter (ESB),318,12
+4.5,NA,109,Floppin' Crappie,American Pale Wheat Ale,529,12
+5.5,NA,542,Canyon Cream Ale,Cream Ale,212,12
+5,18,406,Snake River Lager,Vienna Lager,191,12
+4.3,NA,1152,Galena Golden,American Blonde Ale,309,12
+6.4,62,422,Bengali Tiger (2011),American IPA,46,16
+6.5,65,741,Dale's Pale Ale (2002),American Pale Ale (APA),503,12
+5.2,50,949,3 Gear Robust Porter,American Porter,17,16
+6,NA,161,Red Mountain Ale,American Amber / Red Ale,551,12
+5.2,NA,2340,Drop Kick Ale,American Amber / Red Ale,132,12
+5.5,NA,1250,Action Man Lager,Vienna Lager,445,12
+6.3,57,423,Righteous Ale (2011),Rye Beer,46,16
+4.2,20,1544,Starr Pils,German Pilsener,383,12
+5,27,2284,Hinchtown Hammer Down,American Blonde Ale,16,16
+5,NA,1590,Pumpkin Patch Ale,Pumpkin Ale,369,16
+6,NA,1808,Pilot Rock Porter,American Porter,155,12
+5,62,528,Grand Circus IPA,American IPA,72,12
+5,NA,1294,Angry Orchard Apple Ginger,Cider,434,16
+4.9,30,1310,Boston Lager,Vienna Lager,300,12
+5.1,17,1030,Country Pale Ale,English Pale Ale,295,12
+5.5,20,124,Epicenter Amber Ale (2010),American Amber / Red Ale,30,12
+4.7,NA,1262,Marble Pilsner,German Pilsener,443,12
+8.5,NA,132,Full Moon Belgian White Ale (2007),Witbier,507,12
+4.7,NA,1276,Will Power Pale Ale,American Pale Ale (APA),438,16
+9.3,90,468,Hop Box Imperial IPA,American Double / Imperial IPA,233,12
+4.2,NA,2236,Monkadelic,American Pale Ale (APA),189,12
+7.2,NA,625,Desert Magic IPA,American IPA,507,12
+2.8,15,2306,Summer Brew,American Pilsner,109,12
+5.2,34,424,Sweet Action (2011),Cream Ale,46,16
+4.7,NA,1421,Live Local Golden Ale,American Blonde Ale,107,12
+5.6,55,1954,Ghost Ship White IPA,American IPA,192,12
+9,NA,2220,Barn Yeti,Belgian Strong Dark Ale,27,16
+5.3,26,429,Ninja Porter,American Porter,528,12
+5.9,NA,2517,Rod Bender Red,American Amber / Red Ale,67,12
+7.3,85,383,Black Adder IBA (Current),American Black Ale,530,16
+9,24,923,The Velvet Fog,Quadrupel (Quad),25,16
+6.7,70,2426,Clean Shave IPA,American IPA,106,12
+5.6,47,2687,Parapet ESB,Extra Special / Strong Bitter (ESB),0,16
+6,30,1124,Happy Amber,American Amber / Red Ale,91,12
+5,NA,1564,1800 Big Log Wheat (2012),American Pale Wheat Ale,380,12
+8.5,NA,768,Full Moon Belgian White Ale,Witbier,507,12
+6.7,70,1965,Sky-Five,American IPA,258,12
+5.8,27,339,Copper Hook (2011),American Amber / Red Ale,487,12
+4.5,NA,1094,Grey Lady,Witbier,145,12
+5.1,31,1622,Jam Session,American Pale Ale (APA),359,16
+5.5,40,2054,Pale Alement,American Pale Ale (APA),24,16
+4.7,42,1223,All Day IPA,American IPA,15,12
+5.2,17,2309,Sunbru Kölsch,Kölsch,160,12
+6.3,50,1037,Bronx Pale Ale,American Pale Ale (APA),329,16
+4.7,9,2228,Point Special,American Adjunct Lager,131,12
+5,28,2427,Suncaster Summer Wheat,American Pale Wheat Ale,105,12
+5.2,NA,2638,G. B. Russo’s Italian Pistachio Pale Ale,American Pale Ale (APA),9,16
+8.7,NA,718,Rich Man's IIPA,American Double / Imperial IPA,514,16
+6,NA,2170,Cherried Away,Cider,154,12
+6.6,21,2681,Flesh Gourd'n,Pumpkin Ale,1,16
+4.8,28,195,Lancaster German Style Kölsch,Kölsch,545,12
+5.5,NA,589,Bridal Veil Rye Pale Ale,American Pale Ale (APA),480,12
+6.4,NA,2006,Moe Lasses',American Stout,10,16
+9.5,99,1647,Terrace Hill Double IPA,American Double / Imperial IPA,350,16
+8.7,29,2334,Clan Warrior,Scotch Ale / Wee Heavy,148,12
+7.2,60,1456,Powder Hound Winter Ale,English Strong Ale,336,12
+4.5,NA,2037,The Gilded Age,Munich Helles Lager,243,12
+5.4,24,1669,Oakshire Amber Ale,American Amber / Red Ale,150,12
+9,99,672,Hop A Potamus Double Dark Rye Pale Ale,Rye Beer,365,16
+8,NA,660,Chaka,Belgian Strong Pale Ale,25,16
+5.2,33,1137,Pre Flight Pilsner,American Pilsner,367,16
